@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ngoc Anh
 =================================================================================================================================
 
-Backend Developer
+Frontend Developer
 -----------------
 
 Now, I am a final year student at Ho Chi Minh City University of Technology (HUTECH)
